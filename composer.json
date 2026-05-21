@@ -1,5 +1,5 @@
 {
-    "name": "native-methods-fixer/native-methods-fixer",
+    "name": "kozmaoliver/native-methods-fixer",
     "description": "A fun package that normalizes PHP's inconsistent native function parameter orders",
     "type": "library",
     "license": "MIT",
