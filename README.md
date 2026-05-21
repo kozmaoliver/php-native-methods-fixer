@@ -105,12 +105,6 @@ $pos = fixed_strpos($text, 'World');
 
 - PHP 8.2 or higher
 
-## Testing
-
-```bash
-composer test
-```
-
 ## License
 
 MIT
