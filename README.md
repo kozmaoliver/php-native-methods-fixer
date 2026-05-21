@@ -48,7 +48,7 @@ fixed_str_replace($subject, $search, $replace)
 ## Installation
 
 ```bash
-composer require native-methods-fixer/native-methods-fixer
+composer require kozmaoliver/native-methods-fixer
 ```
 
 ## Usage
